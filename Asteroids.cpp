@@ -1,4 +1,4 @@
-// Asteroids at the command prompt using quick and simple c++ with some Maths.
+// Asteroids at the command prompt using quick and simple c++ with some maths.
 
 #include <iostream>
 #include <string>
